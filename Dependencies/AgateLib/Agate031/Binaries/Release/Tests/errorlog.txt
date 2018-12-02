@@ -1,0 +1,6 @@
+Error Log started 4/14/2009 7:52:18 PM
+
+WARNING: Assembly AgateOTK, Version=0.3.1.0, Culture=neutral, PublicKeyToken=null was loaded in the LoadFrom context.  Move it to the application directory to load in the Load context.
+
+WARNING: Assembly AgateSDL, Version=0.3.1.0, Culture=neutral, PublicKeyToken=null was loaded in the LoadFrom context.  Move it to the application directory to load in the Load context.
+
